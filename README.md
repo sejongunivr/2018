@@ -4,7 +4,7 @@
 
 <br>
 
-## Projects Contents
+## Project Contents
 | 프로젝트<br>종류 | 프로젝트<br>제목 |  장르  | 설명 |
 |:---:|:---:|:---:|:---:|
 | Unity<br>프로젝트 | [What is the Best Composer?](https://github.com/kimkyeongnam/VR-makers/raw/master/What_is_The_Best_Composer.zip)| 게임 | 피아노 건반을 마우스 좌클릭을 통해 연주하는 게임 |
